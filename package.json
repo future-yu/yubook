@@ -1,0 +1,24 @@
+{
+  "name": "yubook",
+  "version": "1.0.0",
+  "description": "一个电子书网站",
+  "main": "index.js",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "koa": "^2.6.2",
+    "mysql2": "^1.6.4",
+    "puppeteer": "^1.11.0",
+    "sequelize": "^4.42.0",
+    "yarn": "^1.13.0"
+  },
+  "devDependencies": {
+    "mocha": "^5.2.0",
+    "nodemon": "^1.18.9",
+    "rewire": "^4.0.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yu",
+  "license": "ISC"
+}
